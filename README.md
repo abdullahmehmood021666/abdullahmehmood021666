@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Mehmood
-- 👀 I’m interested in learning software and web development
+- 👀 I’m interested in learning software development and AI Models
 - 🌱 I’m currently doing bachelors in Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email ( abdullahmehmood021666@gmail.com)
